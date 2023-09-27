@@ -4,7 +4,7 @@
 [Poki](https://poki.de/)<br>
 [YouTube](https://www.youtube.com/)<br>
 [Twitch](https://www.twitch.tv/)<br>
-[ChatGPT No Login](https://chat.chatgptdemo.net/)<br>
+[ChatGPT No Login](https://chat.chatgptdemo.net/)<br><br>
 
 ## Soziale Medien
 
