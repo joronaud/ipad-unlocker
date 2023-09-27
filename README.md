@@ -14,6 +14,7 @@
 [Spielaffe](https://www.spielaffe.de/)<br>
 [1001 Spiele](https://www.1001spiele.de/)<br>
 [Gamesfrog](https://gamesfrog.com/)<br>
+[Scratch](https://scratch.mit.edu/)
 
 ## Filme und Serien
 
@@ -21,3 +22,11 @@
 [Disney+](https://www.disneyplus.com/de-de/)<br>
 [Amazon Prime Video](https://www.amazon.de/gp/video/storefront/)<br>
 
+## Andere
+
+[Google](https://www.google.de/)<br>
+[Amazon](https://www.amazon.de/)<br>
+[eBay](https://www.ebay.de/)<br>
+[eBay Kleinanzeigen](https://www.kleinanzeigen.de/)<br>
+[ChatGPT](https://chat.openai.com/chat)<br>
+[ChatGPT No Login](https://chat.chatgptdemo.net/)<br>
