@@ -1,6 +1,6 @@
 ## Soziale Medien
 
-[YouTube](https://www.youtube.com/)
+[YouTube](https://www.youtube.com/)<br>
 [Instagram](https://www.instagram.com/)
 [TikTok](https://tiktok.com/)
 [Twitter](https://twitter.com/)
